@@ -42,3 +42,104 @@
     text-align: center;
     padding: 20px;
 }
+
+/* why dev section */
+
+.why-dev{
+    width: 1140px;
+    height: 1393px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+    margin: 0 auto;
+    margin-top: 74px;
+}
+
+.why-dev-inner{
+    width: 946px;
+    height: 1233px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.why-web-top{
+    margin-top: 80px;
+}
+.why-head{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom:25px;
+}
+.why-des{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    opacity: 0.7;
+    margin-bottom: 20px;
+}
+
+.do-coding{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.dev-head{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: left;
+    
+}
+
+.dev-des{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    
+}
+.web-btn{
+    box-sizing: border-box;
+    width:171px ;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    padding: 10px;
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    gap: 30px; 
+}
+.help-people{
+    display: flex;
+    gap:10px;
+}
+
+.change-world{
+    display: flex;
+}
+
+.devMode{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    width: 946px;
+    height: 1072px;
+    margin-top: 20px;
+}
