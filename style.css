@@ -210,6 +210,9 @@
     gap: 20px;
     margin-top: 90px;
 }
+.ifTag{
+    border-radius: 16px;
+}
 
 .video{
     width: 1076px;
